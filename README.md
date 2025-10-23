@@ -1,6 +1,6 @@
 # Hi, I'm Enzo 👋
 
-<img align="right" width="256" height="256" src="https://via.placeholder.com/256x256/1c1917/0891b2?text=ES" alt="Profile" />
+<img align="right" width="256" height="256" src="https://avatars.githubusercontent.com/u/115264178" alt="Profile" />
 
 **Blockchain Engineer**
 
